@@ -8,7 +8,6 @@
     "strictPropertyInitialization": false,
     "moduleResolution": "node",
     "baseUrl": ".",
-    "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,

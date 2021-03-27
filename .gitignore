@@ -1,3 +1,6 @@
+# Customs
+*.db*
+
 # Logs
 logs
 *.log
